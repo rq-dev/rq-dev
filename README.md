@@ -2,7 +2,7 @@
 
 <!--
 **rq-dev/rq-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![conf](conf.gif)](#)
+[![conf](https://github.com/rq-dev/rq-dev/blob/main/conf.gif)](#)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
