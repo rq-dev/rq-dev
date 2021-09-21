@@ -6,4 +6,4 @@
 <p></p>
 
 
-[![rq-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=rq-dev)]
+![rq-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=rq-dev)
